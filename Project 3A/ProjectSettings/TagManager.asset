@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - edge
+  - asteroid
+  - bullet
+  - ship
+  - ship2
+  - fire
+  - explosion
+  - comet
+  - powerup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - asteroid
+  - sprite
+  - background
+  - bulletlayer
+  - ship
+  - comet
+  - powerup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: sprites
+    uniqueID: 1113342115
+    locked: 0
